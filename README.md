@@ -3,6 +3,7 @@ Facing issue with SpringBoot with Web
 
 
 Below is the project structure!!
+
 <img width="517" height="416" alt="image" src="https://github.com/user-attachments/assets/a2b439a8-8823-4788-b123-267d3d7593c8" />
 
 
