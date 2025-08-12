@@ -8,7 +8,9 @@ Below is the project structure!!
 
 
 Whenever I am running the application it works perfectly fine on the console and prints the Home method() within Controller class.
+
 I have tried to refresh the browser page multiple times to make sure the browser is actually calling the Home method and it actually does.
+
 Below is the snippet for your reference:
 <img width="1861" height="299" alt="image" src="https://github.com/user-attachments/assets/25e3943f-9dfc-4dbd-bacf-a079036b2c6a" />
 
